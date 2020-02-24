@@ -10,9 +10,13 @@ To use the listed specs add the following lines to your `pod file`
 ### To update a library follow this:
 
 1- Update lib version in `.podspec` file
+
 2- Commit and push changes
+
 3- Set tag with `git tag [NEW_VERSION]`
+
 4- Push tag with `git push --tags`
+
 -------------------------
 ### To create your new private library follow the tutorials below
 
