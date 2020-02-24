@@ -17,6 +17,9 @@ To use the listed specs add the following lines to your `pod file`
 
 4- Push tag with `git push --tags`
 
+5- On library folder call this  
+`pod repo push AppChiefSpecs [LIBRARY_NAME].podspec --allow-warnings`
+
 -------------------------
 ### To create your new private library follow the tutorials below
 
