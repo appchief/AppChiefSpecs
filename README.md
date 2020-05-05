@@ -2,7 +2,7 @@
 
 To use the listed specs add the following lines to your `pod file`
 
-    source 'https://github.com/AppChiefDevs/AppChiefSpecs.git'
+    source 'https://github.com/appchief/AppChiefSpecs.git'
     source 'https://github.com/CocoaPods/Specs.git'
 
 -------------------------
